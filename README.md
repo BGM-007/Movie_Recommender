@@ -23,5 +23,5 @@ It uses **BeautifulSoup** and **Requests** to fetch and parse data from IMDb.
 
 1. Clone this repository:
    ```bash
-   git clone https://github.com/your-username/imdb-best-movies.git
-   cd imdb-best-movies
+   git clone https://github.com/BGM-007/Movie_Recommender.git
+   cd Movie_Recommender
